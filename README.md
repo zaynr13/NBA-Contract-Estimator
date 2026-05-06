@@ -4,13 +4,9 @@ Created by Zayn Remtulla.
 
 This app estimates NBA annual contract value using season-before-signing production, efficiency, minutes, defensive impact, awards, availability, popularity, and nearby real contract comparisons.
 
-## Run locally
+I built an NBA Contract Estimator that uses season-before-signing stats, defensive impact, awards, availability, and comparable recent contracts to estimate fair annual contract value.
 
-```bash
-cd ~/Downloads/nba_contract_estimator_final
-python3 -m pip install -r requirements.txt
-python3 -m streamlit run app/streamlit_app.py
-```
+Live app: https://nba-contract-estimator.streamlit.app/
 
 ## Notes
 
